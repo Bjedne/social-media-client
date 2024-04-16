@@ -1,6 +1,6 @@
 {
   "name": "workflow",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Package for the Workflow CA",
   "type": "module",
   "main": "index.js",
