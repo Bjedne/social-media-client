@@ -7,4 +7,10 @@ export default [
   {
     ignores: ["**/**/*.test.js"],
   },
+  {
+    ignores: ["cypress/*"],
+  },
+  {
+    ignores: ["cypress.config.js"],
+  },
 ];
